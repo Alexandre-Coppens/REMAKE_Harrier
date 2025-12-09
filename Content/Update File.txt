@@ -1,0 +1,4 @@
+Will need to:
+-Make meeting about texels + quads
+-Make meeting about what are the goals (alpha, beta, etc...)
+-Meeting about versioning (the game)
